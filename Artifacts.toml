@@ -1,459 +1,459 @@
 [[SLICOT]]
 arch = "aarch64"
-git-tree-sha1 = "16527b352432750fa349a2fb7edeb03ea863a6b4"
+git-tree-sha1 = "78bc6fc2006417ab5e7a8e2bba8a3bf72e3f62ad"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SLICOT.download]]
-    sha256 = "f2249e6f8ccf606ca2f5200187f0a9bfe3c5ff4110a1ec0830223e900b7a572b"
+    sha256 = "cdaaca5b2657724586562d1113beb2e1ed5d0f4337761bdcc58bedf56747c71a"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[SLICOT]]
 arch = "aarch64"
-git-tree-sha1 = "980b0f22e44f69ee19ceb79afbbe973547fc2b3a"
+git-tree-sha1 = "694245115963ded63cc5cca2d72e64273947d265"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "280f96b9fc97ef0dc1261c5251e0ecb7b62ca8066b84ae650759bbf3eeee22db"
+    sha256 = "69e95d0a8e5c20762c9ea3c1c114f238d68780d01d2a57c4af57302946d1028c"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[SLICOT]]
 arch = "aarch64"
-git-tree-sha1 = "cf98e0d8df32a07d990a731727374845170f548e"
+git-tree-sha1 = "c53807eb78fb31a76749c1bf6a64539500e7dc2c"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "0094d4be5a5d4c5c457b5307a62e9d590edc1aa1aff424f2353c4a4e9b8cf86e"
+    sha256 = "9905377258ea7493702419e478fee1bbbb149e9a0529de3929ed30ac4c07128c"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[SLICOT]]
 arch = "aarch64"
-git-tree-sha1 = "a574aa15d3d8774ba36de10e350eb8fcc8abc260"
+git-tree-sha1 = "0c2c564d76406a9e9c84377cfee5b3ce96aea66e"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "7e0f6ca0ffaea57e161bb0c875a93d303b49d7a8bfd79c02d42729a9a9081377"
+    sha256 = "9667a1b0f040540375501963d4b531654465095f978d32c7671520334ff495df"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[SLICOT]]
 arch = "aarch64"
-git-tree-sha1 = "dcd3f14c89368d38d41736e1d03c87d837da38e5"
+git-tree-sha1 = "758507d2b51dd3a71db42dcb323cb9d87323c1ef"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "f888cd93b5bb150ccfb1f7dfdd72084c6d46e2c23d6860b45c8860969453b91b"
+    sha256 = "ca49d9331222b21cb9264b9986ec0c35f08ba385cddcb2c954c210d9acbd7ef2"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.aarch64-linux-musl-libgfortran3.tar.gz"
 [[SLICOT]]
 arch = "aarch64"
-git-tree-sha1 = "f02c0c7e67f9b7c2ce311bbbef0575a522e8089e"
+git-tree-sha1 = "6f0224b6afeb4a4061a5b61e98410b055882ba9b"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "e61e90344a0072e2058ec4588f4f8e370146250d1f5aa66ac954575ca9dd6edd"
+    sha256 = "2fb0a8ad47aa614afc1205216943a6a4fd471008c0b6a264b121610be4603483"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.aarch64-linux-musl-libgfortran4.tar.gz"
 [[SLICOT]]
 arch = "aarch64"
-git-tree-sha1 = "42f760a125ef6d5bb58d404eef74318a921edc4a"
+git-tree-sha1 = "6bb3117ac3a1c4b17c433a004c319d357f39b609"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "633fcbff5be3eb8544f200eda55d99c8112606dc73f73d578d57d9bed13b81f4"
+    sha256 = "5aaf5337614c60c04a336b6cfe7051dbf5a8482816f22348d97e6d3fa7158fd3"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.aarch64-linux-musl-libgfortran5.tar.gz"
 [[SLICOT]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "1ef95b35c01b92a2aa7ce855c7c89c52ec892abf"
+git-tree-sha1 = "33070c92e1b9e96b914ec494c557323c840e6257"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "b28d9d1b88a7509feed19138e4d88e2c98173d753b1ece8b5ebd0e08a2f36880"
+    sha256 = "cabc3ddc09720ebaaeb3b524646114e4799be2d38c4b827118ffe40977e0eff3"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
 [[SLICOT]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "9ec0fe1ec06710c1c8dd7b1f7904b7576b0ce9d7"
+git-tree-sha1 = "5920f434fb96f17672fda1b9e21a272d6f62a017"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "0382a5afff38be76544596ffc2cb645500c146d13385109b9257962c44a60d71"
+    sha256 = "dc893909508f3285a4df2b9e54a5dad24f647fdf42ceed66da89c6be8e931e24"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[SLICOT]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "44ade766e529b21f8974169bf2e056eff35c3d58"
+git-tree-sha1 = "d538bac4d016044d33a52fe1d88a36f2f0793448"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "bafb48e9dfda91f7ca379696c94f4ba8435b2140912f69939b5934b7ac913535"
+    sha256 = "815289d432c3669f4f6888e7cc9bdaa188b04ee2bc856c70c5a1422d6ccdcd19"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[SLICOT]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "f89fac83b13b061c9e1dbc829a3b52b1666e3cbd"
+git-tree-sha1 = "212da57c0d65b5563df4ea1458180fb60d00abd0"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "b345ee8e355fe8f9cffcd8873a654aa0c84e318ffcddefa94fd274a60dcfa420"
+    sha256 = "f4b14101f323929c167a9bd8df75b122f4e8a246080b6306314e18b4f41addb8"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
 [[SLICOT]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "eb5a38a6d3afdb7cdf0d6ec5a4a58e9f9504a6dc"
+git-tree-sha1 = "7ecfe9e92c4b7e755fb6dc384fd40091191e5199"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "047bcfd10111144dbd8e8d28be5558066951aa494cd2bccd01594acd8484dccd"
+    sha256 = "331672beeab79069db19fe2976636be41617c8f4189e312549a2bb0181bb6ba7"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[SLICOT]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8713152ae3b309045208fe30f43c777cf0152032"
+git-tree-sha1 = "27221d08825bb91c0fb9ec0883caa1a1b2e21ed7"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "621d5b2cc260ee3a29535c0f2cb018e77d6329320728ee1e88f613d2d2dcf188"
+    sha256 = "2dc5da5a8f8073f193e5804e57a82d2f2732ebb859ff05ea5a19fa7934fc26a7"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[SLICOT]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "0dad3863f4834f3f8fa93a4e4e5db147a9afd0ed"
+git-tree-sha1 = "647a17325657527190bb4c1011327e8e8bed39b1"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "42dee594307d395febf53b3ed7e7fd637b586df62c69a088fa0e07e340e06d60"
+    sha256 = "0a67c81f8a0cfb891a931375a976992524814f2ee265e297ba79c29f7c6fc281"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[SLICOT]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "693ddcff685545885fbffc5fcec0c54428c07d31"
+git-tree-sha1 = "86696d434f9ed99e9eba4384a2a9faf0cd0942c7"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "940d14121b5886358a187539e0cc44f47d39fff672645a347f93f854fae0cf3c"
+    sha256 = "2d4ae88cced23229ba9984f3d94b2ca715bb0c980986acb34a99cfd8e078e18d"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[SLICOT]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "21a10e1a8fd3e81564cc51816f1e1c5327bdba5a"
+git-tree-sha1 = "15470acb2f4e4efed6cc39ec7a19eed579871af0"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "315699c12f5a358cf2ec707c88207c6a9fbf585581967f463519f7fbb4a32619"
+    sha256 = "6b965d6781d924be2bcfa6edd9f7221bfb6356d6e0c5f074d655ba6b9bb56875"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[SLICOT]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "84e13b4dbece6bf26ef255ca23f1e14c898a2ab4"
+git-tree-sha1 = "a9e82ca36990c18638a08ffb82ac1cf23d1eec36"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "dad65d6700cc7838527ea9441d7e573c279d861c661a2426ccd0ca8ba5aca04a"
+    sha256 = "a248580b5bec77260a3ff5e775bf83c09789cad1e89ac71becf81da584c8335a"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[SLICOT]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "52d36f7a0296aedbb733ca510ad73657c16ad343"
+git-tree-sha1 = "f739b2aad8ab1c3527490e1d8be43a7e653af9ee"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "75e7e36a33975ee65259fc9fbb043180492782a89db97fe11eed5740f40d3dd7"
+    sha256 = "bbbb83545cab2e694490d54c37aaa22a14b73580c3ff4d1ef9071789bfb534e2"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[SLICOT]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "7d62c33636370bbdb2962a95fde7757f79395b0d"
+git-tree-sha1 = "136b050b92732e321a1b1b7914dbdd8e30a27ada"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "66aafaa979f12f577c170283ffb81978bc2c18ecf49147891adbd7af78d6fec3"
+    sha256 = "e712296481be3a78773420f325580d7c1fe836817f4ac360d589b96950782ac8"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[SLICOT]]
 arch = "i686"
-git-tree-sha1 = "7074f5733d9631ba0ae6643467074de00c60a143"
+git-tree-sha1 = "e2eafa6a835ef6d5633c35957158673682846c76"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "63fc83be95269f35fdcc0fd11391ebf4bb6929d392adf37aecdda0449fad4d49"
+    sha256 = "b17054776b2aa38a60cfd6b9b778654289cca051a82c09a7ec6f0c0cb9bff18f"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.i686-linux-gnu-libgfortran3.tar.gz"
 [[SLICOT]]
 arch = "i686"
-git-tree-sha1 = "9a25f4c95ec8fba50c43d65018bbf406f981caaa"
+git-tree-sha1 = "d5713da94b313fbbf0c171bbf6ee5dd2df420711"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "ec5b115d96c8a52a4235f8ee7c9f7102c655beab7350b02fc6afabebe5886fbd"
+    sha256 = "ffb89b0628c267a62a1bf62166f9584881e5ae7ca664d7089653b7f549b9ad49"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.i686-linux-gnu-libgfortran4.tar.gz"
 [[SLICOT]]
 arch = "i686"
-git-tree-sha1 = "13a88e27c2d241a64ebc36bfbe12f46d26a25992"
+git-tree-sha1 = "b0b86186db774d4f13842d1df3b09f103925a2b3"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "32a8e0fc98ff23d22300bdf94a4bd9f6844b0dfc533f7756a57067c9ca35d35e"
+    sha256 = "1fec246924d7c88888773879a45b9059f556a4486d6517917a446aeda4dc6277"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.i686-linux-gnu-libgfortran5.tar.gz"
 [[SLICOT]]
 arch = "i686"
-git-tree-sha1 = "2e04164a238d61087991c88ccb697c7a46cca726"
+git-tree-sha1 = "4cb54c225b599da64356ddb8426d7096e24ed8be"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "8d3a0b550b7e869a185f6584b5db7ec3120eb577efbd123f4c15fc691c7f4913"
+    sha256 = "4c0b9fd1103999f6c7310d441a0c64da0f5dbfd6f1fc96150c5f2f9c95a59b63"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.i686-linux-musl-libgfortran3.tar.gz"
 [[SLICOT]]
 arch = "i686"
-git-tree-sha1 = "918e3bb5e040e64cad7954fff14ac7192a3da96b"
+git-tree-sha1 = "341ffc556fc759d0f8317f1233fc1e547211f15c"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "baf4680af2edfce1925b21c12236ab5b40a2cb1854364890cfba0560c98f7f3b"
+    sha256 = "fe6ea3365ce164a590ecb5e7b8caddf7fc3103c235aeeedaa868896bc19e7da5"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.i686-linux-musl-libgfortran4.tar.gz"
 [[SLICOT]]
 arch = "i686"
-git-tree-sha1 = "f32c65829adcc3d6db0c8326164413dea4863ab0"
+git-tree-sha1 = "81940e08cbc18e4ed48ddd47edc32048a019eff4"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "5ec34c1e56e24020873857097c3efc7ef54ff8186f90038b8ce98c58df70aac5"
+    sha256 = "81e60086b6b4aac50c5c5060049ce5550993d7131475f6bc6c4c954182c3fb3f"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.i686-linux-musl-libgfortran5.tar.gz"
 [[SLICOT]]
 arch = "i686"
-git-tree-sha1 = "85eef1af1e26b2c41321755faa970c2edea89886"
+git-tree-sha1 = "f871ee2006d77f0dfcc6a1b67f5dce3b5c014c35"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[SLICOT.download]]
-    sha256 = "bb000e3b1b32f8823797f79a1d9e7126b38cd1db2f12ca20033c7332c988f5bd"
+    sha256 = "1cf6131bbbd01ab38b3c3f2fb8ce9b5e4db94d0b5ab7d8b6cf5ced4ad0865b69"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.i686-w64-mingw32-libgfortran3.tar.gz"
 [[SLICOT]]
 arch = "i686"
-git-tree-sha1 = "e94a792974d7c6082528b7e29ce8e6c1939d9ced"
+git-tree-sha1 = "35ee135f6016cf2ba9485d3847fb71bb8339afbf"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[SLICOT.download]]
-    sha256 = "773f3300d2ca7d62ca4baffbfe7816fa611d7e0ad738c9567fea7d62dbc8528b"
+    sha256 = "03dc88a2f006674f92e81526f1de060eeae4eecd9acbb2976ce55a9ed05966ed"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.i686-w64-mingw32-libgfortran4.tar.gz"
 [[SLICOT]]
 arch = "i686"
-git-tree-sha1 = "0991cf314f1ae5ad2687a695aa949128a9cf2ed2"
+git-tree-sha1 = "2e3a1fde53ab64d6e5f0dfbbe9b7547ec3611742"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SLICOT.download]]
-    sha256 = "9dcff1a249fb37d219dc9a92cae18be61df7f5a5d2132bd3e8e5274ac38a4acf"
+    sha256 = "1d6797babfd83de379db5a1e0d75f528d5f2520f03b5d143e6a2e62c722644de"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.i686-w64-mingw32-libgfortran5.tar.gz"
 [[SLICOT]]
 arch = "powerpc64le"
-git-tree-sha1 = "1de877a357e367c7325f80c78a4b544bd278ba7c"
+git-tree-sha1 = "93dd205cc3562f49968a358ca497b355417947a9"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "80d37bb21ed8c16ac26c71b7acae933a3f7d1c34b1704e8a8618eb3384b980ca"
+    sha256 = "f9b28b60255aa68c0df8745c4b5b55178d5883e01fcc0f55729163a59024b7d3"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[SLICOT]]
 arch = "powerpc64le"
-git-tree-sha1 = "841fb3e4a4c0b0472d7d62a6373cece0619154e7"
+git-tree-sha1 = "33b76dbbabd7027eeb8864aac69041caf7c51ef5"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "f26d4ff50fc0433c8b020f625385239b5d7003a0220b7054fec49174bda06111"
+    sha256 = "e8596caabf45809ab6abccb41ec0de5e9fcaff8275decb1c90c0c4c276ca0e4f"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[SLICOT]]
 arch = "powerpc64le"
-git-tree-sha1 = "b4a771108d135cefcd6fcba581d24235e7a299e9"
+git-tree-sha1 = "3d86f9e2559c4a6cbe73143bff335f9216f78b6b"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "2f5c9973cad54c4dabd0234c4ad30962b6058ad53b30bf2283734e96fbbd610c"
+    sha256 = "faf34b19f25d9cb8d93292a9d9246bd20340c26e76e1e61ea3689f8318521121"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[SLICOT]]
 arch = "x86_64"
-git-tree-sha1 = "ee659b3c3ffcf4660199266049b6614c251ee6a1"
+git-tree-sha1 = "5a822bd193ecf234c90d948320809a239bfc71db"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[SLICOT.download]]
-    sha256 = "f92329b9dfc927879c1ef130bcf3ad7ea1b08955297d599b68fb61855b2a2f17"
+    sha256 = "572f10ea9dd82dc2fd341db0963a1873b84c42ba0d41529855fe12ee69fe5404"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[SLICOT]]
 arch = "x86_64"
-git-tree-sha1 = "a1eb497ca4ed6af6782e40967fec8aff2496da8c"
+git-tree-sha1 = "15a817689235506faea2a7b05cf766f525fca5ee"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[SLICOT.download]]
-    sha256 = "8003457c3893c1a33df609dcce0cc8dcb35be5e46fcc387377b5ae8a7718cff3"
+    sha256 = "e7b1a3490f2845c8ee88d0b6b1c595ed11f2fe877a3489709e04d2a5aa1a3bab"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[SLICOT]]
 arch = "x86_64"
-git-tree-sha1 = "aa304f66a4e576dcac444796a9f5d8adefa06ca0"
+git-tree-sha1 = "4c13f236b0f2dbc42e34e2f5e1be7f1c192b4b1c"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SLICOT.download]]
-    sha256 = "3ef1ff04edd494301f445a622615f2d192b85f723a2f6388f53a8b22e2fa1aa4"
+    sha256 = "664117b3ad11296313d1aaece1632eae9fb67462264f1edb62caab4e0b3ffd88"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[SLICOT]]
 arch = "x86_64"
-git-tree-sha1 = "16962176c766905daa42470e4ef728491709ae0c"
+git-tree-sha1 = "94ffbbd7b1d0cc8155b3d173d7ecea6e0ebf6216"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "dc9ecda45f75b012350512f1394f27d97c3d2fa97444364105d62103039b901e"
+    sha256 = "29e808fda0261f1992f03f5ba25df912ad274a028acfd9743a0638c43963b948"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[SLICOT]]
 arch = "x86_64"
-git-tree-sha1 = "2bc34ec13d8c6a8341245c5924ae0aa9b473d01d"
+git-tree-sha1 = "75f692fd7d7f0e4b629d0716015adde749f593ba"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "e8a706baad51e551db672694c14c2871a425c8301ebd695ac5ec008aefc9f120"
+    sha256 = "26412e659b98a66619539fa94fca522b670b69df79fe3a0f0a0adcb6cdfbd794"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[SLICOT]]
 arch = "x86_64"
-git-tree-sha1 = "2d5be669284e9a58037d5521f08e33b2c0b29669"
+git-tree-sha1 = "60195113c959749d27ba9758431724fd75394482"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "c114663c171f05c37a64d3eac0f146b4dce6364711064dfe16167f28e96873fa"
+    sha256 = "5676f226be4d1ddd0eeb8a1380bc4f9b06509184b16fe796586dd116608d2de2"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[SLICOT]]
 arch = "x86_64"
-git-tree-sha1 = "e726f6231009acc80b77ccbecb29ae9ddedbf0ec"
+git-tree-sha1 = "bb519b05171279314af1f050a62226396b20a3e5"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "79ed6fe2f154ddffaa265bd79892dde8cb2c0104d68ffb036a176f317239500a"
+    sha256 = "f3e1c3c14b620194aef0158ad6038fe34da854890b56f3b08e5d35ea1b4ee680"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.x86_64-linux-musl-libgfortran3.tar.gz"
 [[SLICOT]]
 arch = "x86_64"
-git-tree-sha1 = "d97bc23d44f7d362de0abeb3da74d9ba3662d99b"
+git-tree-sha1 = "944b0dff6e8587a61c7ff69a1b9bc1139ecc8f02"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "8776c004c7b9982049de2e75ee4ffe2a4dfb341b3897b5155e8c8e7cf2f49e8b"
+    sha256 = "8d9c98b237e2fc383af3aaf5581d13eca2d982f5da3c2bde0fb2c3f9af6947cd"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.x86_64-linux-musl-libgfortran4.tar.gz"
 [[SLICOT]]
 arch = "x86_64"
-git-tree-sha1 = "d77cb8b034b03bc0dc059eb3182ba5d16bda8c2f"
+git-tree-sha1 = "5d73f331660036dc669cfbb736265db8763411d0"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SLICOT.download]]
-    sha256 = "253a309a58ceceab04bef2bdab18538f01957761f559fa7db7273f8073b13fa4"
+    sha256 = "f9d16def8ec62307716f33271ec52e1b870ab280c77016d8c75dabecb3bcd3c2"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.x86_64-linux-musl-libgfortran5.tar.gz"
 [[SLICOT]]
 arch = "x86_64"
-git-tree-sha1 = "6877513a1b0048b5af68ffc56ebc05911303a8e6"
+git-tree-sha1 = "cd5f2ce24ee9ef741d62bdc30177357839bcd666"
 libgfortran_version = "3.0.0"
 os = "freebsd"
 
     [[SLICOT.download]]
-    sha256 = "974b92b86f13231b6772740cb53d02f4f353b314b33af1fd6326932ddc224b4e"
+    sha256 = "582637128eda3d1788419c3f5fd56f4e42e5735c8d51bd0d0beba9e69a6b0e22"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[SLICOT]]
 arch = "x86_64"
-git-tree-sha1 = "71eb41130171d8e3e1b8957d652e6e242362165e"
+git-tree-sha1 = "c82dd8f41f2f5c117368d36d5a03ecf0bca0fd96"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[SLICOT.download]]
-    sha256 = "0f96c6f83849c642ca81705dd540c4335656d42aee02d249783ed2f4fc9dcd4f"
+    sha256 = "fa0f1d0de7ab87525c9a9f3e2d6013d76db35f595ba43fdc01410e38332eb13a"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[SLICOT]]
 arch = "x86_64"
-git-tree-sha1 = "5f09bcdbc43f501dcf418e6b9a200c095438bb1b"
+git-tree-sha1 = "6563898d2bd6fc9599695380131370ad6564d086"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[SLICOT.download]]
-    sha256 = "a1644773e3afa207f1150b56c0b5eac98de42f5581b8984c0942dfbc6cda8afd"
+    sha256 = "2743a6ee22d34050a219e6bf759ca2b09a6bbddd930e484003cfc1eb7b961a3e"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[SLICOT]]
 arch = "x86_64"
-git-tree-sha1 = "0464f41169a51d819aad00b07bccdff5aaaa9c30"
+git-tree-sha1 = "f39a1f608f87a7385735eca068365e4e7e271f2c"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[SLICOT.download]]
-    sha256 = "033a4cd3154816e8e4b7294507ce0a28c64b9d0d4cee68e7e675fcf46d45c53c"
+    sha256 = "3c0027b910cf9a0fd0cebf0fb6186bfa401384e2577194add511b05423315fbf"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[SLICOT]]
 arch = "x86_64"
-git-tree-sha1 = "a3013d89d691f28a5596d3c02a3cb2a7a14410c4"
+git-tree-sha1 = "c8ed1f7e41d834eabe64fc1b73cb55bf2ff50865"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[SLICOT.download]]
-    sha256 = "db93b3f67c7d837efb3f4199857b63b4cc557330b6850f5ae9cfa71af7b2a59c"
+    sha256 = "1227cc4272ad238fe3ded11989a4ec87aac6deba4fb19a7f64680bf0a8dbcf2c"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[SLICOT]]
 arch = "x86_64"
-git-tree-sha1 = "836ea03039f6c32a84869b3eac88ecf8dca66422"
+git-tree-sha1 = "6992eba2388be5fc15cd0d038cd72aa444de0879"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SLICOT.download]]
-    sha256 = "78a7b9aabc61f5a69bb58de0c83073c789e19785fbbe5757deed80b339475203"
+    sha256 = "2a7d1cb088d879af3707c978d684d34bbb32eae00c294100f8dcfc51e088aee4"
     url = "https://github.com/JuliaBinaryWrappers/SLICOT_jll.jl/releases/download/SLICOT-v5.8.0+0/SLICOT.v5.8.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
