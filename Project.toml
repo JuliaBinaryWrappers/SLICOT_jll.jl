@@ -1,6 +1,6 @@
 name = "SLICOT_jll"
 uuid = "545525a2-e20e-568b-b87f-b40a06098995"
-version = "5.8.0+1"
+version = "5.8.0+2"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
